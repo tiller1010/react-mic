@@ -4,7 +4,7 @@
   "description": "Record audio from your microphone and display as a sound oscillation",
   "main": "dist/index.js",
   "files": [
-    "src"
+    "dist"
   ],
   "keywords": [
     "react",
